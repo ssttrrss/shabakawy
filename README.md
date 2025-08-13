@@ -3,7 +3,7 @@
 
 ![Dancing Parrot GIF](assets/images/dancing_parrot.gif)
 
-![Shbakawy Logo](assets/images/logo.png)
+![Sabakawy Logo](assets/images/logo.png)
 
 **أداة احترافية لحماية وتحليل الشبكات**
 
@@ -22,7 +22,7 @@
 
 ### نظرة عامة
 
-Shbakawy هو تطبيق احترافي مصمم لحماية وتحليل الشبكات بواجهة رسومية أنيقة وسهلة الاستخدام. يوفر التطبيق مراقبة شاملة للشبكة في الوقت الفعلي، كشف التهديدات تلقائياً، والتحكم في إعدادات الراوتر.
+Sabakawy هو تطبيق احترافي مصمم لحماية وتحليل الشبكات بواجهة رسومية أنيقة وسهلة الاستخدام. يوفر التطبيق مراقبة شاملة للشبكة في الوقت الفعلي، كشف التهديدات تلقائياً، والتحكم في إعدادات الراوتر.
 
 ### المميزات الرئيسية
 
@@ -343,7 +343,7 @@ network_protector/
 
 ### Overview
 
-Shbakawy is a professional network security and analysis application designed with an elegant and user-friendly graphical interface. The application provides comprehensive real-time network monitoring, automatic threat detection, and router management capabilities.
+Sabakawy is a professional network security and analysis application designed with an elegant and user-friendly graphical interface. The application provides comprehensive real-time network monitoring, automatic threat detection, and router management capabilities.
 
 ### Key Features
 
@@ -488,7 +488,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-**Shbakawy** - حماية شبكتك، أمان معلوماتك
+**Sabakawy** - حماية شبكتك، أمان معلوماتك
 
 Made with ❤️ by Network Security Solutions
 
