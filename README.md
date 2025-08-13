@@ -1,4 +1,4 @@
-# shabakawy - شيكتك في الحفظ والصون
+# shabakawy - شبكتك في الحفظ والصون
 
 <div align="center">
 
