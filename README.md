@@ -1,8 +1,9 @@
-# shabakawy - شبكتك في الحفظ والصون
-
+# Shabakawy  -  شبكتك في الحفظ والصون
 <div align="center">
 
-![shabakawy Logo](assets/images/logo.png)
+![Dancing Parrot GIF](assets/images/dancing_parrot.gif)
+
+![Shbakawy Logo](assets/images/logo.png)
 
 **أداة احترافية لحماية وتحليل الشبكات**
 
@@ -21,7 +22,7 @@
 
 ### نظرة عامة
 
-Network Protector هو تطبيق احترافي مصمم لحماية وتحليل الشبكات بواجهة رسومية أنيقة وسهلة الاستخدام. يوفر التطبيق مراقبة شاملة للشبكة في الوقت الفعلي، كشف التهديدات تلقائياً، والتحكم في إعدادات الراوتر.
+Shbakawy هو تطبيق احترافي مصمم لحماية وتحليل الشبكات بواجهة رسومية أنيقة وسهلة الاستخدام. يوفر التطبيق مراقبة شاملة للشبكة في الوقت الفعلي، كشف التهديدات تلقائياً، والتحكم في إعدادات الراوتر.
 
 ### المميزات الرئيسية
 
@@ -342,7 +343,7 @@ network_protector/
 
 ### Overview
 
-Network Protector is a professional network security and analysis application designed with an elegant and user-friendly graphical interface. The application provides comprehensive real-time network monitoring, automatic threat detection, and router management capabilities.
+Shbakawy is a professional network security and analysis application designed with an elegant and user-friendly graphical interface. The application provides comprehensive real-time network monitoring, automatic threat detection, and router management capabilities.
 
 ### Key Features
 
@@ -487,7 +488,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-**Network Protector** - حماية شبكتك، أمان معلوماتك
+**Shbakawy** - حماية شبكتك، أمان معلوماتك
 
 Made with ❤️ by Network Security Solutions
 
