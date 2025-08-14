@@ -1,1 +1,30 @@
-{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
+# Shabakawy Python Dependencies
+# Core GUI framework
+PyQt5>=5.15.0
+
+# Network security and packet analysis
+scapy>=2.4.5
+
+# System monitoring and utilities
+psutil>=5.8.0
+
+# HTTP requests and web automation
+requests>=2.25.0
+selenium>=4.0.0
+
+# HTML parsing and XML processing
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+
+# Cryptography and security
+cryptography>=3.4.0
+
+# SSH and remote access
+paramiko>=2.8.0
+
+# Network interface management
+netifaces>=0.11.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+configparser>=5.0.0
